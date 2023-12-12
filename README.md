@@ -4,6 +4,9 @@ To set up the listener use command nc -lvnp 9001(port number can be changed to s
 
 In case where its failed to daemonise use encoding : URL encoding -double URL encoding - Base64 
 
+The shell can be used for the following : 
+sh, /bin/bash, /bin/sh, cmd, bash, powershell, pwsh, ash, bsh, csh, ksh, zsh, pdksh, tcsh, mksh, dash
+
 
 
 This tool may be used for legal purposes only.  Users take full responsibility
